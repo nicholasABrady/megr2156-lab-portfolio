@@ -50,6 +50,8 @@ Ethan and I put our STL files into Prusa together. Both of our projects had a mo
 
 We also decided to set the vertical shell perimeters to 3. This change was intended to increase the wall thickness on the project by making the printer lay down 3 outer layers.
 <p align="center">  
+
+
   <img width="500" src="infill.png"/> 
   <img width="500" src="wallThickness.png"/>
 </p>
@@ -61,14 +63,7 @@ When we sliced in Prusa Slicer, the project was set to take 1 hour and 9 minutes
 </p>
 
 ## Print
-Attached are two videos taken while our print was in process. Neither of our prints had any problems and there will be images of the final products below. 
-<p align="center">  
-  <iframe src="https://drive.google.com/file/d/1OsU2_24dpBVATZCs8-V_wZy9v1P6s5qV/preview" width="640" height="480"></iframe>
-  <iframe src="https://drive.google.com/file/d/10tQI879dsJCZDBu0oc8nOQA4Dnf9Rr69/preview" width="640" height="480"></iframe>
-  <iframe src="https://drive.google.com/file/d/1V5XZJYcb79rlWjPCGIzgTWYxKhT2cCF-/preview" width="640" height="480"></iframe>
-  <iframe src="https://drive.google.com/file/d/1TKB1YPw3Jy75uSzbhH_FMcSsbJ3Dm8Oh/preview" width="640" height="480"></iframe>
-</p>
-
+[Linked here](https://drive.google.com/drive/folders/1MEpB5sqrERa344E6ocY44eOAQrf2f366?usp=drive_link) is a video containing videos taken while our print was in process. Neither of our prints had any problems and there will be images of the final products below. 
 
 <p align="center">  
   <img width="500" src="top.png"/> 
@@ -77,7 +72,9 @@ Attached are two videos taken while our print was in process. Neither of our pri
 
 
 ## Lessons Learned
-Print with gaps in the bottom or as two separate parts
-Design for the cables to be able to enter the holder
+I learned a few lessons during this project. Regarding my design, in future iterations I would either design the body so that there are small gaps that cables can fit through or I would design two parts that come together. I failed account for the ends of cables being too large to fit through the holes. As it stands now, my cord holder is only usable for smaller cords like electric circuit wiring. In the process of completing this portfolio entry, I attempted to embed my print videos. I tried multiple methods like a <video> tag and an <iframe> tag but neither worked. It seems that Github Markdown may not allow those tags to completely rendered for this type of file. I also tried to drag and drop but my videos significantly exceeded the 10MB drag and drop limit.
 
 ## Resources
+[Prusa Infill Patterns List](https://help.prusa3d.com/article/infill-patterns_177130)
+[Github Markdown Guide[(https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[Github Embed Video](https://bobbyhadz.com/blog/embed-video-into-github-readme-markdown#how-to-embed-a-video-into-github-readmemd-markdown)
