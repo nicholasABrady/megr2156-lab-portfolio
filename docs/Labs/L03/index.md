@@ -61,10 +61,23 @@ When we sliced in Prusa Slicer, the project was set to take 1 hour and 9 minutes
 </p>
 
 ## Print
+Attached are two videos taken while our print was in process. Neither of our prints had any problems and there will be images of the final products below. 
+<p align="center">  
+  <iframe src="https://drive.google.com/file/d/1OsU2_24dpBVATZCs8-V_wZy9v1P6s5qV/preview" width="640" height="480"></iframe>
+  <iframe src="https://drive.google.com/file/d/10tQI879dsJCZDBu0oc8nOQA4Dnf9Rr69/preview" width="640" height="480"></iframe>
+  <iframe src="https://drive.google.com/file/d/1V5XZJYcb79rlWjPCGIzgTWYxKhT2cCF-/preview" width="640" height="480"></iframe>
+  <iframe src="https://drive.google.com/file/d/1TKB1YPw3Jy75uSzbhH_FMcSsbJ3Dm8Oh/preview" width="640" height="480"></iframe>
+</p>
+
+
+<p align="center">  
+  <img width="500" src="top.png"/> 
+  <img width="500" src="flat.png"/>
+</p>
 
 
 ## Lessons Learned
 Print with gaps in the bottom or as two separate parts
-
+Design for the cables to be able to enter the holder
 
 ## Resources
